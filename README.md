@@ -1,6 +1,6 @@
 ## Hi, I'm Tiago 👨🏻‍💻
 
-- 🛠️ Site Reliability Engineer @ [Volkswagen Digital Solutions](https://www.vwds.pt)
+- 🛠️ Site Reliability Engineer @ [Mercedes-Benz.io](https://www.mercedes-benz.io/)
 - ☁️ Studying for AWS Certified Solutions Architect – Associate Certification
 
 ## 🌐 Socials:
